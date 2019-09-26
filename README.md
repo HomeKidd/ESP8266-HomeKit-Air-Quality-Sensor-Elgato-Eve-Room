@@ -4,14 +4,14 @@
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/Homekit-WS2812B-controller/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/Homekit-WS2812B-controller?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Build-Instructions) Wiki page!<br/><br/>
+For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/wiki/Build-Instructions) Wiki page!<br/><br/>
 
 **Demo:**
 
