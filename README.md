@@ -13,11 +13,30 @@
 
 For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/wiki/Build-Instructions) Wiki page!<br/><br/>
 
+**Basic information**
+
+This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpress.com/e/bfv69KpK) sensor and a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!**
+</br>
+
+<a href="http://s.click.aliexpress.com/e/KJ7eKX6s">
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/IAQ-CORE%20C.jpg" width="150">
+</a> </br></br>
+
+**Features:**
+* Indoor Air Quality Index
+* Indoor CO2
+* Indoor VOC density
+* ~~Indoor Temperature~~ (beta!)
+* ~~Indoor Humidity~~ (beta!)
+
+
 **Demo:**
 
-[![](http://img.youtube.com/vi/TG9xq7ith0k/0.jpg)](http://www.youtube.com/watch?v=TG9xq7ith0k "Demo Video")
-<br/>
-<img src="https://github.com/HomeKidd/Homekit-WS2812B-controller/raw/master/Images/demo.jpg" class="center" width="500"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_1.png" width="550"/> </br></br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_2.png" width="550"/> </br></br>
+
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_front.png" width="350">
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_back.png" width="350">
 
 <br/>
 <br/>
