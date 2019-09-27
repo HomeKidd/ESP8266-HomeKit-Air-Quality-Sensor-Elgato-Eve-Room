@@ -15,7 +15,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 **Basic information**
 
-This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpress.com/e/bfv69KpK) sensor and a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!**
+This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpress.com/e/bfv69KpK) sensor and a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!** 
 </br>
 
 <a href="http://s.click.aliexpress.com/e/KJ7eKX6s">
