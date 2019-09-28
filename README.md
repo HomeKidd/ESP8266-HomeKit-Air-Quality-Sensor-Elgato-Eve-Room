@@ -26,8 +26,9 @@ This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpres
 * Indoor Air Quality Index
 * Indoor CO2
 * Indoor VOC density
-* ~~Indoor Temperature~~ (beta!)
-* ~~Indoor Humidity~~ (beta!)
+* Indoor Temperature (only in 3rd party apps thanks Apple)
+* Indoor Humidity
+* Sensor Fault detection
 
 
 **Demo:**
