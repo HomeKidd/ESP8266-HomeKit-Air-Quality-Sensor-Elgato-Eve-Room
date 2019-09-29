@@ -33,8 +33,9 @@ This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpres
 
 **Demo:**
 
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_1.png" width="550"/> </br></br>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_2.png" width="550"/> </br></br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/homekid__iaq_mockup.JPG" width="550"/> </br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_1.png" width="550"/> </br></br></br>
+
 
 <img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_front.png" width="350">
 <img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_back.png" width="350">
