@@ -1,44 +1,55 @@
 # ESP8266 based  HomeKit Air Quality Sensor
+ESP8266 based  HomeKit Air Quality Sensor using SHT3X for temperature and humidity measuring and AMS IAQ Core C for Co2 and VOC measureing.
 
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/wiki/Build-Instructions) Wiki page!<br/><br/>
+For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/wiki/Build-Instructions) Wiki page!<br/><br/>
+
+
+
+**This HomeKit enabled sensor works the same as [Elgato EVE Room](https://www.evehome.com/en/eve-room)!** 
+
 
 **Basic information**
-
-This project is based on ESP8266 modul, a cheap [DHT22](http://s.click.aliexpress.com/e/bfv69KpK) sensor and a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!** 
-</br>
-
-<a href="http://s.click.aliexpress.com/e/KJ7eKX6s">
-<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/IAQ-CORE%20C.jpg" width="150">
-</a> </br></br>
 
 **Features:**
 * Indoor Air Quality Index
 * Indoor CO2
 * Indoor VOC density
-* Indoor Temperature (only in 3rd party apps thanks Apple)
-* Indoor Humidity
+* Indoor Temperature and Humidity measuring 
 * Sensor Fault detection
+* Support for **SSD1306 OLED screen**
+* Switching Temperature Display Units between Celsius and Fahrenheit
+* Reset button 
+* ~~Data history~~ (not reliable enough, so its beta)
+
+This project is based on ESP8266 modul, a cheap [SHT3X](http://s.click.aliexpress.com/e/qAfJeXuk) temperature/humidity sensor, a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) and SS1306 I2C bus [OLED Screen](http://s.click.aliexpress.com/e/ecIWJxcM) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!** 
+</br>
+
+<a href="http://s.click.aliexpress.com/e/KJ7eKX6s">
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/IAQ-CORE%20C.jpg" width="150">
+</a> </br></br>
+
+
 
 
 **Demo:**
 
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/homekid__iaq_mockup.JPG" width="550"/> </br>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/Image_1.png" width="550"/> </br></br></br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/homekid__iaq_mockup.JPG" width="550"/> </br>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/Image_1.png" width="550"/> </br></br></br>
 
 
-<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_front.png" width="350">
-<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor/raw/master/images/pcb_back.png" width="350">
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/pcb_front.png" width="350">
+<img border="0" alt="" src="https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/raw/master/images/pcb_back.png" width="350">
 
 <br/>
 <br/>
