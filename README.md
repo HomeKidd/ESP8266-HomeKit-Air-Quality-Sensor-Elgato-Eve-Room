@@ -29,6 +29,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Sensor Fault detection
 * Support for **SSD1306 OLED screen**
 * Switching Temperature Display Units between Celsius and Fahrenheit
+* Downloadable User Manual _(via Eve app)_
 * Reset button 
 * ~~Data history~~ (not reliable enough, so its beta)
 
