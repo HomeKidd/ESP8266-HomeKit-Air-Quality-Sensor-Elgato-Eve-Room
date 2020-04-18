@@ -1,0 +1,11 @@
+# Comment to a new issue.
+issuesOpened: >
+  Thank you for raising an issue and helping me out with finding bugs or requesting new features. 
+  We will try and get back to you as soon as possible.
+  
+  Until that You might find the solution in the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/wiki) or maybe find others facing the same issue as You in the [Closed Issues](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/issues?q=is%3Aissue+is%3Aclosed)!
+  
+issuesReopened: >
+  We will try and get back to you as soon as possible.
+  
+  Until that You might find the solution in [Closed Issues](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/issues?q=is%3Aissue+is%3Aclosed)!
