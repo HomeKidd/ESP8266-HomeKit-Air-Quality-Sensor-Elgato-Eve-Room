@@ -27,7 +27,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Indoor VOC density
 * Indoor Temperature and Humidity measuring 
 * Sensor Fault detection
-* Support for **SSD1306 OLED screen**
+* Support for **[SSD1306 OLED screen](https://s.click.aliexpress.com/e/_d7Bj0V3)** 
 * Switching Temperature Display Units between Celsius and Fahrenheit
 * Downloadable User Manual _(via Eve app)_
 * Reset button 
