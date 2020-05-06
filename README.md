@@ -36,7 +36,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 **If you don't want to use OLED screen and SHT3X, please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room/releases)!** 
 
 
-This project is based on ESP8266 modul, a cheap [SHT3X](http://s.click.aliexpress.com/e/qAfJeXuk) temperature/humidity sensor, a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) and SS1306 I2C bus [OLED Screen](http://s.click.aliexpress.com/e/ecIWJxcM) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!** 
+This project is based on ESP8266 modul, a cheap [SHT3X](http://s.click.aliexpress.com/e/qAfJeXuk) temperature/humidity sensor, a [CO2 and VOC sensor](http://s.click.aliexpress.com/e/KJ7eKX6s) and SS1306 I2C bus [OLED Screen](https://s.click.aliexpress.com/e/_d7Bj0V3) that can be found on AliExpress! **The sensor is the same that Elgato EVE Room has for indoor air quality monitoring!** 
 </br>
 
 <a href="http://s.click.aliexpress.com/e/KJ7eKX6s">
